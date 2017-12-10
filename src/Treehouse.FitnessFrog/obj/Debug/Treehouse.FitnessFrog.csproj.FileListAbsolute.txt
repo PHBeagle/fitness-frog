@@ -30,3 +30,4 @@ C:\Repo\fitness-frog\src\Treehouse.FitnessFrog\bin\System.Web.Helpers.xml
 C:\Repo\fitness-frog\src\Treehouse.FitnessFrog\bin\System.Web.Mvc.xml
 C:\Repo\fitness-frog\src\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.dll
 C:\Repo\fitness-frog\src\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.pdb
+C:\Repo\fitness-frog\src\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.csprojResolveAssemblyReference.cache
