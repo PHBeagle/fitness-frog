@@ -87,6 +87,7 @@ namespace Treehouse.FitnessFrog.Controllers
             return View(entry);
         }
 
+        [HttpPut]
         public ActionResult Edit(Entry entry)
         {
             ValidateEntry(entry);
